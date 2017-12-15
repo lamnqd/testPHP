@@ -78,7 +78,6 @@
 	 		// 	 	//location.reload();
 	 		// 	 //}});
 	 		// });
-
 	 	});
 	 </script>
 </body>
