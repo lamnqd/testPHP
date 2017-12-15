@@ -1,7 +1,3 @@
-Viet tao lao
-
-
-
 <!DOCTYPE html>
 <?php include("database.php"); ?>
 <html>
@@ -82,7 +78,6 @@ Viet tao lao
 	 		// 	 	//location.reload();
 	 		// 	 //}});
 	 		// });
-
 	 	});
 	 </script>
 </body>
